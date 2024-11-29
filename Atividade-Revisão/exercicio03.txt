@@ -1,0 +1,10 @@
+natal
+aviao
+amigo
+livro
+python
+musica
+viagem
+discord
+eclipse
+guitarra

@@ -1,8 +1,8 @@
 # Repositório da disciplina Programação para Redes  
 Códigos desenvolvidos utilizando a linguagem de programação Python durante o curso Redes de Computadores - IFRN.  
-Dentro das pastas do diretório, estarão os respectivos códigos das atividades realizadas.  
+Dentro dos diretórios do repositório, estarão os respectivos códigos das atividades realizadas.  
   
-## Conteúdo das respectivas pastas:
+## Conteúdo dos respectivos diretórios:
 * Atividade 01 - Revisão
 ```
 Atividade de revisão referente à disciplina de programação,  

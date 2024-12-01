@@ -3,13 +3,13 @@ Códigos desenvolvidos utilizando a linguagem de programação Python durante o 
 Dentro das pastas do diretório, estarão os respectivos códigos das atividades realizadas.  
   
 ## Conteúdo das respectivas pastas:
-Atividade 01 - Revisão
+* Atividade 01 - Revisão
 ```
 Atividade de revisão referente à disciplina de programação,  
 cursada no primeiro período do curso.
 
 ```
-Atividade 02 - Estudo Dirigido 01
+* Atividade 02 - Estudo Dirigido 01
 ```
 Atividade com base na obtenção de Metadados
 ```

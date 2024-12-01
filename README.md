@@ -11,5 +11,5 @@ cursada no primeiro período do curso.
 ```
 * Atividade 02 - Estudo Dirigido 01
 ```
-Atividade com base na obtenção de Metadados
+Atividade com base na obtenção de Metadados.
 ```

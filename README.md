@@ -5,7 +5,9 @@ Dentro das pastas do diretório, estarão os respectivos códigos das atividades
 ## Conteúdo das respectivas pastas:
 Atividade 01 - Revisão
 ```
-Atividade de revisão referente a disciplina de programação, cursada no primeiro período do curso de Redes de Computadores
+Atividade de revisão referente à disciplina de programação,  
+cursada no primeiro período do curso.
+
 ```
 Atividade 02 - Estudo Dirigido 01
 ```

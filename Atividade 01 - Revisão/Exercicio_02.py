@@ -1,4 +1,4 @@
-from Exercicio_02_maindef import encontrar_nonce
+from Exercicio_02_noncedef import encontrar_nonce
 
 def main(): # Função principal
     textos = [
